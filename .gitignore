@@ -1,0 +1,12 @@
+# ignore .zip, .tar files.
+*.zip
+*.tar
+*.tar.gz
+# below large files size more than 100MB
+4/4.11/data/glove.6B.50d.txt
+4/4.11/data/household_power_consumption.txt
+5/5.3.12/data/cifar-10-python.tar.gz
+
+# ignore test folder and subfolder content
+test/
+udacity-dl-video/

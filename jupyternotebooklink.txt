@@ -1,0 +1,5 @@
+https://github.com/Surveshchauhan/Udacitystudent/blob/main/app1.ipynb
+
+
+import Ipython
+IPython.Application.instance().kernel.do_shutdown(True)    #automatically restarts kernel
